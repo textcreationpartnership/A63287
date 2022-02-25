@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True accompt of His Majesties safe arrival in England as it was reported in the House of Commons, Friday the 25th of May : with the resolutions of both Houses thereupon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63287</idno>
+            <idno type="STC">Wing T2336</idno>
+            <idno type="STC">ESTC R26330</idno>
+            <idno type="EEBO-CITATION">09431995</idno>
+            <idno type="OCLC">ocm 09431995</idno>
+            <idno type="VID">43073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63287)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1318:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True accompt of His Majesties safe arrival in England as it was reported in the House of Commons, Friday the 25th of May : with the resolutions of both Houses thereupon.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:43073:1"/>
+            <!-- PDF PAGE 15 -->
+            <head>A True ACCOMPT of His MAJESTIES Safe ARRIVAL in ENGLAND: As it was reported in the Houſe of Commons, Friday the <hi>25th</hi> of <hi>May.</hi> VVith the Reſolutions of both Houſes thereupon.</head>
+            <div type="part">
+               <head>Friday, 25. May, at the Houſe of Lords.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Lords received an Accompt from the Commiſsioners with his Majeſty, <hi>viz.</hi> That on VVedneſday laſt his Majeſty, after he had been ſeveral dayes magni<g ref="char:EOLhyphen"/>ficently entertained by the Lords States General, took his leave of them, and being accompanied with the Queen of <hi>Bohemia,</hi> the Princeſs Royal, the Prince of <hi>Orange,</hi> and many other perſons of quality, came unto the Road of <hi>Schevelen,</hi> where the Cannons having ſpoken his welcome unto the Fleet, after ſome ſhort time of ſtay, the Queen of <hi>Bohemia</hi> with the Prince and Princeſs of <hi>Orange,</hi> and all the reſt of the Train took their leave of His Majeſty.</p>
+               <p>Immediatly whereupon the Fleet weighed Anchor, and left the Coaſt of <hi>Holland,</hi> and yeſterday at five of the clock made the <hi>North</hi>-foreland, after which they made towards the <hi>Downs,</hi> and ſo for <hi>Dover.</hi>
+               </p>
+               <p>VVhereupon their Lordſhips agreed a Letter of Congratulation unto His Majeſty touch<g ref="char:EOLhyphen"/>ing his ſafe Arrival in <hi>England,</hi> alſo deſiring to know his Majeſties pleaſure when they ſhould wait upon His Majeſty, the which Letter was immediatly ſent away.</p>
+            </div>
+            <div type="part">
+               <head>At the Houſe of Commons.</head>
+               <p>THe Houſe received a Meſſage with a Letter from General <hi>Montague,</hi> ſignifying, that on Wedneſday the 23. preſent, his Majeſty, accompanied with his Aunt the Queen of <hi>Bo<g ref="char:EOLhyphen"/>hemia,</hi> the Prince and Princeſs of <hi>Orange,</hi> with the Dukes of <hi>York</hi> and <hi>Gloceſter,</hi> came aboard the <hi>Naſeby</hi> in <hi>Schevelen</hi> Bay, and about 11 of the clock the Queen of <hi>Bohemia,</hi> the Prince and Princeſs of <hi>Orange</hi> took their leave of his Majeſty, and about 3. in the Afternoon the Duke of <hi>York</hi> went aboard the <hi>London</hi> Frigat, and the Duke of <hi>Gloceſter</hi> the <hi>Swift-ſure</hi> Frigat, and ſo weighed anchor, and about 11. that night they were 7. Leagues from the Dutch Coaſt, at which time the Letter was dated, and the Gentleman came away.</p>
+               <p>The ſaid Gentleman being called into the Houſe, he was told by thé Speaker, that the Houſe did deſire to know if he could accquaint them where he thought his Majeſty was, unto which he gave this accompt, That by the ſignal given him, they had ſight of Land yeſterday at 5. of the clock, for the Guns were then diſcharged, which was the ſignal: and at eight of the clock at night the Fleet came to an anchor four Leagues off the North Foreland, and then was within nine Leagues of <hi>Dover:</hi> whereupon the Houſe ordered a Committee to draw a congratulatory Letter to be ſent unto his Majeſty concerning his ſafe Arrival in <hi>England,</hi> and to deſire to know where the Houſe might wait upon Him, and when. The ſaid Committee were like<g ref="char:EOLhyphen"/>wiſe ordered, to make another draught of a Letter to be ſent unto the Commiſſioners of the Houſe, which do attend his Majeſty, who then immediatly withdrew, and brought in two Letters, which being read, were agreed unto, and ordered to be ſent away forthwith.</p>
+            </div>
+            <div type="part">
+               <head>May 26.</head>
+               <p>This laſt night the Lord Mayor had certain notice of King CHARLES his Landing DOVER, and com<g ref="char:EOLhyphen"/>manded the Bells to be rung throughout the City.</p>
+            </div>
+            <closer>
+               <hi>Englands</hi> Glory is Returned, <hi>Soli DEO Gloria.</hi>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
